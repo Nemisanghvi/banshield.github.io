@@ -1,0 +1,336 @@
+@media only screen and (max-width:1470px){
+    .wrapper{padding: 0em 6em;}
+    ul.nav li a{font-size: 1.2em;}
+    .bain-image{right: 32em;}
+    .title-text{font-size: 1.2em;}
+    .right-banner{font-size: 1.2em;}
+    .banner-left{font-size: 1em;}
+   
+    .whole-personal-i{padding: 4em 0em 4em 0em;}
+    .whole-personal-i{font-size: 1em;}
+    ul.listing-blogs{font-size: 1.2em;}
+    form{font-size: 1.2em;}
+    ul.quick-links{font-size: 1.2em;}
+    .banshe-text p{font-size: 1.2em;}
+    ul.social-logo li a img{width: 3em;}
+    .get-image img{width: 1.5em;}
+    h3.heading3.same{font-size: 1.5em;}
+    .traffic-image img{width: 5em;}
+    input.submit-btn{font-size: 1.5em;}
+}
+@media only screen and (max-width:1200px){
+    .banner-text{font-size: 1.2em;}
+    .bain-image{width: 40em;}
+    ul.nav li{padding-right: 1.5em;}
+    ul.nav li a{font-size: 1.3em;}
+    .top-line-w{font-size: 1.5em;}
+    .title-text{font-size: 1.3em;}
+    .readmore-w{width: 14em;}
+    .title-text h2.heading2{margin-bottom: 1em;}
+    .blog-title{font-size: 1.2em;}
+    .blog-title h2.heading2{font-size: 1em;}
+    .title-text h2.heading2{margin-bottom: 2em;}
+    h2.heading2.color.margin{margin-bottom: 1em;}
+    .testimonials-w .right-t{max-width: 100%;}
+    .re-capcha img{width: 3em;}
+    .recent-image img{width: 6em;}
+    ul.footer-line2{font-size: 1.2em;}
+    li.ui-tabs-tab.ui-corner-top.ui-state-default.ui-tab{margin-right: 6em;}
+    li.ui-tabs-tab.ui-corner-top.ui-state-default.ui-tab{width: 9em;}
+    input.submit-btn{font-size: 1.5em;}
+   
+    
+}
+@media only screen and (max-width:1024px){
+    input.submit-btn{font-size: 1.5em;}
+    .get-text.cool{font-size: 1.2em;}   
+    .bain-logo img{width: 34em;}
+    ul.nav li a{font-size: 1.5em;}
+        .title-text h2.heading2{margin-bottom: 1em;}
+        .personal-injury h2.heading2{font-size: 2.5em;
+            padding-bottom: 0.8em;line-height: 1;margin-bottom: 1em;}
+            ul.social-logo li a img{width: 4em;}
+            .banner-text{font-size: 1em;}
+            
+    
+}
+@media only screen and (max-width:1000px){
+    .get-text h3.heading3{font-size: 0.8em;}
+    .injury-image::after{border: none;}
+    .plus-image img{width: 2.5em;}
+    .traffic-text h4.heading4{font-size: 1.2em;}
+    .traffic-image img{min-height: 7em;}
+    .white-box{height: 19em;}
+    .whole-personal-i{padding: 0em 0em;}
+    ul.listing-blogs li{width: 50%;}
+    .review-us{margin: 1em 1em;}    
+
+    .banner-whole{padding: 22em 0em;}
+    .bain-image{display: none;}
+    .right-banner{display: none;}
+    .banner-whole{flex-direction: column;
+        justify-content: center;}
+        .banner-left{font-size: 1.4em;}
+        .banner-left{padding: 0em;}
+        
+        .right-banner{font-size: 1.7em;}
+        .exp-whole{font-size: 1.3em;}
+        li.ui-tabs-tab.ui-corner-top.ui-state-default.ui-tab{
+            padding-bottom: 4em;}
+         
+               
+                .injury-text{font-size: 1.2em;}
+                    .richamond-whole{flex-direction: column;align-items: flex-start;}
+                    .mond-right{max-width: 100%;padding-top: 4em;font-size: 1.4em;}
+                    .testimonials-w{font-size: 1.4em;}
+                    h2.heading2.font{font-size: 2em;}
+                    ul.listing-blogs{padding-top: 2em;}
+                        .blog-title{font-size: 1.5em;
+                            padding: 1em 0em 1em 0em;}
+                            form{font-size: 1.4em;}
+                            input.unique{width: 17px;
+                                height: 17px;}
+                                .footer-whole{justify-content: left;
+                                    flex-wrap: wrap;}
+                                    .footer-whole{font-size: 1.4em;}
+                                    ul.footer-line2{font-size: 1.4em;}
+    
+}
+@media only screen and (max-width:767px){
+    .review-us a{font-size: 1.2em;}
+    .recentblogs-whole{padding-top: 1.5em;}
+    .recent-image img{width: 5em;}
+    .get-in-touch-w{padding-top: 1em;}
+    .footer-div1{padding: 0em 0em 1em 0em;}
+    ul.quick-links{padding: 1em 0em 0em 0em;}
+   
+    .injury-image::after{border: none;}
+    ul.nav li{padding-right: 0em;}
+    ul.nav li a:hover{color: white;}
+    ul.nav li a{font-size: 3em;}
+    .navigation{display: none;}
+    .navigation.active{display: block;}
+    .toggle{
+        display: block;
+    text-align: right;
+    align-items: center;
+    font-size: 5em;
+    /* width: 10em; */
+    color: #e67315;
+    }
+    .close-btn {
+        display: block;
+        text-align: right;
+        align-items: center;
+        font-size: 5em;
+        width: auto;
+        color: #e67315;
+        position: fixed;
+        z-index: 2;
+        height: auto;
+        /* background: #f00; */
+        top: 10px;
+        right: 30px;
+        cursor: pointer;
+    }
+
+
+
+    .white-box{display: inline-block;padding: 0em 0em;}
+    li.ui-tabs-tab.ui-corner-top.ui-state-default.ui-tab{padding-bottom: 2em;}
+    .plus-image{display: none;}
+    .injury-image{width: 33.33%;}
+    .traffic-text{padding: 1em 0em;font-size: 2.5em;}
+    .traffic-image{display: none;}
+    .white-box{width: 100em;height: 100%;}
+    ul.ui-tabs-nav.ui-corner-all.ui-helper-reset.ui-helper-clearfix.ui-widget-header{display: block;padding-bottom: 4em;}
+    ul.listing-blogs li{width: 100%;}
+    .banner-whole{padding: 22em 0em;}
+    .bain-image{display: none;}
+    .right-banner{display: none;}
+    ul.nav{
+     position: fixed;
+    left: 0;
+    width: 100%;
+    display: flex;
+    background-color: black;
+    top: 0;
+    z-index: 1;
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    list-style-type: none;
+    }
+    .bain-logo img{width: 50em;}
+    textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"]{font-size: 1.3em;}
+    .free-c h2.heading2{font-size: 2em;}
+    .top-line-w{font-size: 2em;}
+    .exp-whole{font-size: 1.5em;}
+  
+  
+    h2.heading2.font{font-size: 3em;}
+   
+       
+        .mond-right{font-size: 1.5em;}
+        .form-row{flex-direction: column;}
+       
+            .testimonials-w{flex-wrap: wrap; flex-direction: column;   }
+            .testimonials-w .left-t{padding-right: 0em;}
+            .testimonials-w .right-t{padding: 2em 0em 2em 0em;font-size: 1.2em;}
+            .star{text-align: center;}
+            h2.heading2.font{font-size: 4em;}
+            h3.heading3.same{font-size: 2.5em;}
+            .blog-title h2.heading2::after{height: 2px;}
+            ul.social-logo li{padding: 0em 0.5em 0em 0em;}
+            .blog-title{font-size: 2em;}
+            form.seprate{font-size: 2em;}
+            .footer-whole{flex-direction: column;}
+            .footer-div{padding: 0em 0em 1em 0em;}
+            .recent-blogs-w{justify-content: left;}
+            .review-us{margin: 1em 0em 1em 0em;padding: 0.5em 0em 0.5em 0em;width: 9.63em;}
+            .footer-div{width: 100%;}
+            ul.quick-links{flex-direction: column;}
+            .footer-whole{font-size: 2em;}
+            ul.social-logo{justify-content: left;}
+            ul.quick-links li{padding: 0em 0em 1em 0em;}
+            ul.footer-line2{font-size: 1.8em;}
+            ul.social-logo li a img{width: 3em;}
+            ul.quick-links li{width: 100%;}
+            .footer-whole{font-size: 2em;}
+            .second-part{overflow: visible;}
+            .blog-image img{width: 80%;}
+         
+            
+    
+}
+@media only screen and (max-width:640px){
+    .logo-read{width: 2.5em;}
+    .title-text.personal{font-size: 1.5em;}
+    .toggle{font-size: 7em;}
+    .close-btn{font-size: 8em;}
+    ul.nav li a{font-size: 4em;}
+    .title-text{font-size: 1.1em;}
+    .whole-personal-i .injury-text{max-width: 100%;padding-left: 0em;}
+    .injury-image{width: 100%;text-align: center;}
+    .whole-personal-i{flex-wrap: wrap;
+        flex-direction: column;}
+    .blog-image img{width: 100%;}
+    .banner-left{font-size: 1.6em;}
+    .right-banner{font-size: 2em;}
+    .exp-whole{font-size: 2em;}
+    h3.heading3.same{font-size: 1.8em;}
+    .read-text a{font-size: 1.5em;}
+    .title-text h2.heading2::after{width: 22%;}
+        .whole-personal-i .injury-text{font-size: 1.5em;padding-top: 4em;}
+        .personal-injury h2.heading2::after{width: 17%;}
+        .mond-right{font-size: 2em;}
+        h3.heading3.same.decent{font-size: 1.5em;}
+        h3.heading3.same{font-size: 2.5em;}
+        .testimonials-w .right-t{font-size: 1.6em;}
+        .star{padding-top: 2em;}
+        .blog-title{font-size: 3em;}
+       
+            .footer-whole{font-size: 2.5em;}
+            .footer-div1{width: 100%;}
+            .footer-div{padding: 0em 0em 1em 0em;}
+            ul.footer-line2{font-size: 2em;}
+            .top-line-w{flex-wrap: wrap;
+                flex-direction: column;
+                align-items: flex-end;font-size: 3em;}
+                form.seprate{font-size: 3em;}
+                .whole-condition{flex-wrap: wrap;
+                    flex-direction: column;
+                    align-items: center;}
+                    .checking-wholebox2{margin-bottom: 2em;}
+                    .re-capcha img{width: 100%;}
+                    ul.quick-links{padding: 1em 0em 0em 0em;}
+                    .footer-div1{padding: 0em 0em 1em 0em;}
+    
+}
+@media only screen and (max-width:480px){
+    ul.footer-line2 li{padding-bottom: 0.7em;border-left: none;}
+    ul.footer-line2{flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        font-size: 2.4em;  
+    }
+        ul.footer-line2 li:first-child{border-left: none;}
+    h3.heading3.new-one.same{font-size: 2.5em;}
+    .read-text a{font-size: 1.2em;}
+    .white-box{height: 100%;}
+    .traffic-text h4.heading4{font-size: 1.5em;}
+    .whole-personal-i .injury-text{font-size: 1.7em;}
+    .banner-left{display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: -webkit-center;}
+        h2.heading2.font{ font-size: 5em;}
+       
+        .exp-law{padding: 4em 0em 4em 0em;}
+        h3.heading3.what{font-size: 1.375em;}
+        .right-banner{font-size: 2.5em;}
+        .title-text{font-size: 1.5em;}
+        .blog-title{font-size: 3.5em;}
+        .footer-whole{font-size: 3.5em;}
+        .banner-left{font-size: 1.9em;}
+        .title-text h3.heading3{font-size: 1.2em;}
+        .blog-image img{width: 100%}
+        .bain-logo img{width: 70%;}
+        ul.social-logo li a img{width: 2.5em;}
+        .review-us{padding: 0.2em 0em;margin: 1em 0em 1em 0em;width: 8.63em;}
+        ul.social-logo li{padding: 0em 0.5em 0em 0em;}
+    
+}
+@media only screen and (max-width:400px){
+    ul.footer-line2 li a{font-weight: 500;}
+    .title-text h3.heading3.differ::after{height: 1px;}
+    .blog-title h2.heading2::after{height: 1.5px;}
+    .blog-title h2.heading2{padding: 1em 0em 1.5em 0em;}
+    .blog-title h3.heading3{padding: 0em 0em;}
+    input.unique{width: 15px;}
+    .readmore-w{width: 11em;}
+    ul.ui-tabs-nav.ui-corner-all.ui-helper-reset.ui-helper-clearfix.ui-widget-header{padding-top: 4em;}
+    input.submit-btn2{font-size: 1.5em;font-weight: 700;padding: 0em 3em;}
+    .banner-left{font-size: 2.2em;}
+    .traffic-text h4.heading4{font-size: 1.8em;}
+    .title-text.personal{font-size: 1.7em;}
+    .personal-injury h2.heading2{font-size: 2.7em;margin-bottom: 0.5em;}
+    .injury-text .readmore-w{margin-top: 1em;}
+  
+    h2.heading2.attor{font-size: 1.7em;}
+    .title-text.attor{font-size: 2em;}
+    .star img{width: 12em;}
+    .get-in-touch-w{padding-top: 1em;}
+   
+    .richamond{padding: 4em 0em;}
+    .wrapper{padding: 0em 10em;}
+    .mond-right .title-text p{font-size: 1.7em;}
+    .location2-image img{width: 1.2em;}
+    .lo-text h2.heading2{    font-size: 1.2em;line-height: 1.5em;}
+    .top-line-w{align-items: center;}
+    .contact-us a{font-size: 2em; }
+    .banner-left{font-size: 2em;}
+    ul.footer-line2 li a{font-size: 1.5em;}
+    ul.footer-line2 li{border-left: none;padding-bottom: 1em;}
+    ul.footer-line2{flex-wrap: wrap;
+        flex-direction: column;align-items: center;}
+    h3.heading3.differ{padding-right: 0.5em;}
+    .close-btn{font-size: 14em;}
+    ul.nav li a{font-size: 6em;}
+    .testi-image img{width: 40em;}
+    .title-text h3.heading3{font-size: 1em;}
+    ul.quick-links li{padding: 0em 0em 0.5em 0em;}
+    .footer-whole{font-size: 4em;}
+    .whole-personal-i .injury-text{font-size: 2em;}
+    .title-text{font-size: 1.6em;}
+    .title-text h2.heading2::after{height: 2px;}
+    .title-text h2.heading2{margin-bottom: 0.6em;}
+    h2.heading2.font{font-size: 4em;}
+    .bain-logo img{width: 100%;}
+    .personal-injury h2.heading2::after{height: 2px;}
+    .logo-read{width: 2.5em;}
+   
+    
+}
